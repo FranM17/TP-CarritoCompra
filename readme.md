@@ -1,5 +1,8 @@
 # Trabajo Práctico: Carrito de Compras
 
+## Integrantes
+Franco Mondino, Franco Rubin
+
 ## Enunciado
 
 Se nos encargo el desarrollo del modulo del "carrito de compras" de una aplicacion. El cliente requiere las funcionalidades basicas de un carrito de compras como agregar y eliminar un item al carrito, calcular el precio final a pagar, etc. Tambien tenemos a cargo la implementacion de las clases adicionales necesarias para el correcto funcionamiento del mismo. 
