@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,23 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Tienda.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Tienda.cs",
               "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Tienda.cs",
               "RelativeToolTip": "CarritoCompras\\Tienda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:14:44.491Z"
+              "WhenOpened": "2025-06-16T19:14:44.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Program.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Program.cs",
@@ -62,11 +63,12 @@
               "RelativeToolTip": "CarritoCompras\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:14:20.122Z"
+              "WhenOpened": "2025-06-16T19:14:20.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Carrito.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Carrito.cs",
@@ -78,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ItemCarrito.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\ItemCarrito.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\ItemCarrito.cs",
@@ -86,12 +88,11 @@
               "RelativeToolTip": "CarritoCompras\\ItemCarrito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:13:22.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:13:22.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Producto.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Producto.cs",
@@ -99,12 +100,11 @@
               "RelativeToolTip": "CarritoCompras\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:13:02.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:13:02.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Categoria.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Categoria.cs",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BaseDeDatos.cs",
               "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\BaseDeDatos.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\BaseDeDatos.cs",
