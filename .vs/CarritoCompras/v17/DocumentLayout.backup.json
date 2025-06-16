@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\carrito\\carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\adapt amb trab (gzles)\\trabajos practicos\\carrito\\carritorepo\\carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28B4E862-42FB-44FC-971B-DDF797AA57CF}|CarritoCompras\\CarritoCompras.csproj|solutionrelative:carritocompras\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Tienda.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Tienda.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Tienda.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Tienda.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Tienda.cs",
               "RelativeToolTip": "CarritoCompras\\Tienda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Program.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Program.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Program.cs",
               "RelativeToolTip": "CarritoCompras\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,36 +66,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Carrito.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Carrito.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Carrito.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Carrito.cs",
               "RelativeToolTip": "CarritoCompras\\Carrito.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T19:13:41.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ItemCarrito.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\ItemCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\ItemCarrito.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\ItemCarrito.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\ItemCarrito.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\ItemCarrito.cs",
               "RelativeToolTip": "CarritoCompras\\ItemCarrito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:13:22.716Z"
+              "WhenOpened": "2025-06-16T19:13:22.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Producto.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Producto.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Producto.cs",
               "RelativeToolTip": "CarritoCompras\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,23 +104,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Categoria.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\Categoria.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\Categoria.cs",
               "RelativeToolTip": "CarritoCompras\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:12:45.492Z"
+              "WhenOpened": "2025-06-16T19:12:45.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BaseDeDatos.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\BaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\BaseDeDatos.cs",
               "RelativeDocumentMoniker": "CarritoCompras\\BaseDeDatos.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Carrito\\CarritoCompras\\BaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\Adapt Amb Trab (Gzles)\\Trabajos Practicos\\Carrito\\CarritoRepo\\CarritoCompras\\BaseDeDatos.cs",
               "RelativeToolTip": "CarritoCompras\\BaseDeDatos.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
